@@ -1,0 +1,5 @@
+Physical Computing - 87.04
+Programming Fundamentals - 80.00
+Modular Programming - 75.76
+
+The best attended module is Physical Computing with a 87.04% attendance rate.
